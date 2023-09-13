@@ -1,0 +1,184 @@
+C:\lunar\lhadmin\obj\Debug\cubemesweb.csproj.AssemblyReference.cache
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_mes.FormDigitalCalipers.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_mes.FormItemBarcode.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_mobile.FormLogin.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_mobile.FormOrderCPList.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_mobile.FormTableViewer.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_wrapdust.FormLHReport.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpARRDataViewer.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpECGDataViewer.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpInfo.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpDataViewer.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpList.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_wrapdust.FormDialog.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_wrapdust.FormWrapDust.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.FormInput.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.FormInputKeypad.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.FormInputTime.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.FormLoginMobile.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.FormPopup1.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.Properties.Resources.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.csproj.GenerateResource.cache
+C:\lunar\lhadmin\obj\Debug\cubemesweb.csproj.CoreCompileInputs.cache
+C:\lunar\lhadmin\bin\cubemesweb.dll.config
+C:\lunar\lhadmin\bin\cubemesweb.dll
+C:\lunar\lhadmin\bin\cubemesweb.pdb
+C:\lunar\lhadmin\bin\BouncyCastle.Crypto.dll
+C:\lunar\lhadmin\bin\BusinessRefinery.Barcode.Win.dll
+C:\lunar\lhadmin\bin\ClosedXML.dll
+C:\lunar\lhadmin\bin\DocumentFormat.OpenXml.dll
+C:\lunar\lhadmin\bin\ExcelNumberFormat.dll
+C:\lunar\lhadmin\bin\Google.Protobuf.dll
+C:\lunar\lhadmin\bin\Irony.dll
+C:\lunar\lhadmin\bin\K4os.Compression.LZ4.dll
+C:\lunar\lhadmin\bin\K4os.Compression.LZ4.Streams.dll
+C:\lunar\lhadmin\bin\K4os.Hash.xxHash.dll
+C:\lunar\lhadmin\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\lunar\lhadmin\bin\MySql.Data.dll
+C:\lunar\lhadmin\bin\Renci.SshNet.dll
+C:\lunar\lhadmin\bin\SixLabors.Fonts.dll
+C:\lunar\lhadmin\bin\SYS.Conf.dll
+C:\lunar\lhadmin\bin\SYS.SERVER.dll
+C:\lunar\lhadmin\bin\System.Buffers.dll
+C:\lunar\lhadmin\bin\System.Configuration.ConfigurationManager.dll
+C:\lunar\lhadmin\bin\System.Diagnostics.DiagnosticSource.dll
+C:\lunar\lhadmin\bin\System.IO.Packaging.dll
+C:\lunar\lhadmin\bin\System.IO.Pipelines.dll
+C:\lunar\lhadmin\bin\System.Memory.dll
+C:\lunar\lhadmin\bin\System.Numerics.Vectors.dll
+C:\lunar\lhadmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\lunar\lhadmin\bin\System.Security.AccessControl.dll
+C:\lunar\lhadmin\bin\System.Security.Permissions.dll
+C:\lunar\lhadmin\bin\System.Security.Principal.Windows.dll
+C:\lunar\lhadmin\bin\System.Threading.Tasks.Extensions.dll
+C:\lunar\lhadmin\bin\Wisej.Framework.dll
+C:\lunar\lhadmin\bin\Wisej.Web.Ext.ChartJS.dll
+C:\lunar\lhadmin\bin\XLParser.dll
+C:\lunar\lhadmin\bin\ZstdSharp.dll
+C:\lunar\lhadmin\bin\Control_.dll
+C:\lunar\lhadmin\bin\Crypt.dll
+C:\lunar\lhadmin\bin\ClosedXML.xml
+C:\lunar\lhadmin\bin\DocumentFormat.OpenXml.xml
+C:\lunar\lhadmin\bin\ExcelNumberFormat.xml
+C:\lunar\lhadmin\bin\Google.Protobuf.pdb
+C:\lunar\lhadmin\bin\Google.Protobuf.xml
+C:\lunar\lhadmin\bin\K4os.Compression.LZ4.xml
+C:\lunar\lhadmin\bin\K4os.Compression.LZ4.Streams.xml
+C:\lunar\lhadmin\bin\K4os.Hash.xxHash.xml
+C:\lunar\lhadmin\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\lunar\lhadmin\bin\MySql.Data.xml
+C:\lunar\lhadmin\bin\Renci.SshNet.xml
+C:\lunar\lhadmin\bin\SixLabors.Fonts.xml
+C:\lunar\lhadmin\bin\System.Buffers.xml
+C:\lunar\lhadmin\bin\System.Configuration.ConfigurationManager.xml
+C:\lunar\lhadmin\bin\System.Diagnostics.DiagnosticSource.xml
+C:\lunar\lhadmin\bin\System.IO.Packaging.xml
+C:\lunar\lhadmin\bin\System.IO.Pipelines.xml
+C:\lunar\lhadmin\bin\System.Memory.xml
+C:\lunar\lhadmin\bin\System.Numerics.Vectors.xml
+C:\lunar\lhadmin\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\lunar\lhadmin\bin\System.Security.AccessControl.xml
+C:\lunar\lhadmin\bin\System.Security.Permissions.xml
+C:\lunar\lhadmin\bin\System.Security.Principal.Windows.xml
+C:\lunar\lhadmin\bin\System.Threading.Tasks.Extensions.xml
+C:\lunar\lhadmin\bin\Wisej.Framework.xml
+C:\lunar\lhadmin\bin\Wisej.Web.Ext.ChartJS.xml
+C:\lunar\lhadmin\bin\de\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\bin\es\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\bin\fr\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\bin\it\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\bin\pt\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\bin\tr\Wisej.Framework.resources.dll
+C:\lunar\lhadmin\obj\Debug\cubemesweb.csproj.CopyComplete
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dll
+C:\lunar\lhadmin\obj\Debug\cubemesweb.pdb
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpOverview.resources
+C:\lunar\lhadmin\obj\Debug\cubemesweb.dair_msl.FormEmpCSVDataViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\bin\cubemesweb.dll.config
+C:\Users\cho\Desktop\lhadmin web c# source\bin\cubemesweb.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\cubemesweb.pdb
+C:\Users\cho\Desktop\lhadmin web c# source\bin\BouncyCastle.Crypto.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\BusinessRefinery.Barcode.Win.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\ClosedXML.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\DocumentFormat.OpenXml.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\ExcelNumberFormat.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Google.Protobuf.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Guna.UI2.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Irony.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Compression.LZ4.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Hash.xxHash.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\MySql.Data.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Renci.SshNet.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\SixLabors.Fonts.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\SYS.Conf.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\SYS.SERVER.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Buffers.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.IO.Packaging.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.IO.Pipelines.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Memory.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Numerics.Vectors.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.AccessControl.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.Permissions.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.Principal.Windows.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\XLParser.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\ZstdSharp.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Control_.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Crypt.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\ClosedXML.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\DocumentFormat.OpenXml.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\ExcelNumberFormat.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Google.Protobuf.pdb
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Google.Protobuf.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Compression.LZ4.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\K4os.Hash.xxHash.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\MySql.Data.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Renci.SshNet.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\SixLabors.Fonts.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Buffers.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.IO.Packaging.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.IO.Pipelines.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Memory.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Numerics.Vectors.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.AccessControl.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.Permissions.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Security.Principal.Windows.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Wisej.Framework.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Wisej.Web.Ext.ChartJS.xml
+C:\Users\cho\Desktop\lhadmin web c# source\bin\de\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\es\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\fr\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\it\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\pt\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\tr\Wisej.Framework.resources.dll
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.csproj.AssemblyReference.cache
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_mobile.FormTableViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpCSVDataViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_wrapdust.FormLHReport.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpARRDataViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpECGDataViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpInfo.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpDataViewer.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpList.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dair_msl.FormEmpOverview.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.FormLoginMobile.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.Properties.Resources.resources
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.csproj.GenerateResource.cache
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.csproj.CoreCompileInputs.cache
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.csproj.CopyComplete
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.dll
+C:\Users\cho\Desktop\lhadmin web c# source\obj\Debug\cubemesweb.pdb
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Wisej.Framework.dll
+C:\Users\cho\Desktop\lhadmin web c# source\bin\Wisej.Web.Ext.ChartJS.dll

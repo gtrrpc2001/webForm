@@ -1,0 +1,16 @@
+﻿{
+	"name": "Application",
+
+	"appearances": {
+		"rounded-panel": {
+			"inherit": "panel",
+			"states": {
+				"default": {
+					"styles": {
+						"radius": 10
+					}
+				}
+			}
+		}
+	}
+}
